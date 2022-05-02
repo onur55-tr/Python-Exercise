@@ -8,6 +8,10 @@ Selenium may be installed via npm with
 
     npm install selenium-webdriver
 
+Selenium with python
+
+    pip3 install selenium 
+
 ### Safari Import
 
     sudo safaridriver --enable
