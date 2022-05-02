@@ -10,7 +10,7 @@ Selenium may be installed via npm with
 
 ### Safari Import
 
-    safaridriver --enable
+    sudo safaridriver --enable
     from selenium.webdriver.common.by import By
     from selenium import webdriver
     
